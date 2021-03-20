@@ -7,5 +7,5 @@ body {
 }
 h1 {
    font-family: "Ubuntu";
-  text-decoration: underline;
+  text-decoration: underline dotted red;
 }
