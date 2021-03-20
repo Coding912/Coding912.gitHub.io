@@ -3,5 +3,7 @@ h7 {
 }
 body {
   background-color: #9999FF;
-  font-family: "Ubuntu";
+}
+h1 {
+   font-family: "Ubuntu";
 }
